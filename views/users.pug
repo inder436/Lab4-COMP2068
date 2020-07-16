@@ -1,0 +1,15 @@
+  
+include partials/header
+
+block content
+    h1 Registered Users
+    table
+        tr
+            th.title ID
+            th.title Username
+        each user in data
+            tr
+                td= user.id
+                td= user.username
+
+include partials/footer

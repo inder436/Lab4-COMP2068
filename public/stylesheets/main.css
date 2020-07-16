@@ -1,0 +1,17 @@
+﻿body {
+    padding: 50px;
+    font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: grey;
+    text-decoration: dashed;
+    
+}
+
+a {
+    color: blue;
+}
+
+p { color: red}
+
+button {
+    color: yellow
+}
